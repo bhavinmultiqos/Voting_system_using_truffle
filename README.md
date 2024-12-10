@@ -108,6 +108,6 @@ For more information on the **MIT License** and its permissions, please visit th
 
 ## Let Us know
 For more details, visit [MultiQoS](https://multiqos.com/).
-> ***"Revolutionizing Voting with Blockchain: Secure, Fair, and Real-Time"*
+> ***"Revolutionizing Voting with Blockchain: Secure, Fair, and Real-Time"***
 
 
