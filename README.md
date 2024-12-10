@@ -1,6 +1,6 @@
-# Blockchain Smart Ballot: A Secure Decentralized Voting System Built with Solidity
+# Blockchain Smart Ballot: A Secure Decentralized Voting System Built with [Solidity](https://soliditylang.org/)
 
-**Blockchain Smart Ballot** is a cutting-edge decentralized voting system powered by **blockchain technology** and developed with **Solidity**. It enables transparent, tamper-proof elections with real-time voting results, ensuring a **fair and secure voting process**. The system adheres to the **one-person-one-vote** principle, guaranteeing that every user can vote only once.
+**Blockchain Smart Ballot** is a cutting-edge decentralized voting system powered by **[blockchain technology](https://www.blockchain.com/)** and developed with **[Solidity](https://soliditylang.org/)**. It enables transparent, tamper-proof elections with real-time voting results, ensuring a **fair and secure voting process**. The system adheres to the **one-person-one-vote** principle, guaranteeing that every user can vote only once.
   
 ## Key Features of Blockchain Smart Ballot
 * **Decentralized Voting on Blockchain**: Run your voting process on a blockchain, leveraging the immutability and security of blockchain technology.
@@ -106,8 +106,15 @@ This project is licensed under the **MIT License**, a permissive open-source lic
 
 For more information on the **MIT License** and its permissions, please visit the official [MIT License page](https://opensource.org/license/mit).
 
-# Get in Touch
-For more information on the **Blockchain Smart Ballot system** and other blockchain-based solutions, visit [MultiQoS](https://multiqos.com/). MultiQoS specializes in custom blockchain development, offering **secure, scalable, and decentralized applications** tailored to your needs.
+# Get in Touch with MultiQoS
+For more details about the **Blockchain Smart Ballot system** and other blockchain-based solutions, visit [MultiQoS](https://multiqos.com/). MultiQoS specializes in custom **blockchain development**, providing **secure, scalable, and decentralized applications** tailored to your specific needs.
+
+### Contact MultiQoS:
+#### Email: [biz@multiqos.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=biz@multiqos.com") – Reach out to our expert blockchain development team for inquiries or assistance.
+#### LinkedIn: MultiQoS on LinkedIn – Connect with us on LinkedIn to get the latest updates on blockchain technology and decentralized applications.
+#### Twitter: @MultiQoS – Follow us on Twitter for industry insights, updates, and trends in blockchain development.
+#### Behance: MultiQoS on Behance – Discover our creative portfolio, including blockchain design projects and user interface designs.
+#### Dribbble: MultiQoS on Dribbble – Explore our design projects, with a focus on blockchain solutions and custom user interfaces.
 
 > ## ***"Revolutionizing Voting with Blockchain: Secure, Fair, and Real-Time"***
 
