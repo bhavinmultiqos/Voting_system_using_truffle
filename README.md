@@ -58,7 +58,7 @@ ganache-cli --deterministic --port 8545
 * --port 8545 specifies the port (you can change it if necessary).
 Once you run these commands, Ganache will start up and provide an RPC endpoint that you can use in your Truffle configuration, typically http://127.0.0.1:8545.
 
-### 6. Connect MetaMask to the local Ganache blockchain:
+### 6. Connect [MetaMask](https://metamask.io/) to the local Ganache blockchain:
 1. Open MetaMask and select the network dropdown at the top.
 2. Choose "Custom RPC".
 3. Enter the following details:
@@ -101,10 +101,13 @@ The smart contract source code is located in contracts/Voting.sol. You can modif
 ## Contributing
 We welcome contributions! If you have suggestions, feature requests, or bug fixes, please feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License.
+## License Information
+This project is licensed under the **MIT License**, a permissive open-source license that allows for modification, distribution, and private use. By using or contributing to the Blockchain Smart Ballot project, you agree to the terms set forth in this license.
+
+For more information on the **MIT License** and its permissions, please visit the official [MIT License page](https://opensource.org/license/mit).
 
 ## Let Us know
 For more details, visit [MultiQoS](https://multiqos.com/).
+> ***"Revolutionizing Voting with Blockchain: Secure, Fair, and Real-Time"*
 
 
