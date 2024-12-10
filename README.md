@@ -106,8 +106,9 @@ This project is licensed under the **MIT License**, a permissive open-source lic
 
 For more information on the **MIT License** and its permissions, please visit the official [MIT License page](https://opensource.org/license/mit).
 
-## Let Us know
-For more details, visit [MultiQoS](https://multiqos.com/).
-> ***"Revolutionizing Voting with Blockchain: Secure, Fair, and Real-Time"***
+# Get in Touch
+For more information on the **Blockchain Smart Ballot system** and other blockchain-based solutions, visit [MultiQoS](https://multiqos.com/). MultiQoS specializes in custom blockchain development, offering **secure, scalable, and decentralized applications** tailored to your needs.
+
+> # ***"Revolutionizing Voting with Blockchain: Secure, Fair, and Real-Time"***
 
 
