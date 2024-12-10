@@ -16,10 +16,17 @@
 * Results are updated instantly after each vote.
 * Use the interaction script to query the current results.
 
-# Prerequisites
+## Prerequisites
 To run this project, ensure you have the following installed:
 
 * Node.js (v16 or higher)
 * NPM or Yarn
 * Truffle (v5 or higher)
 * Ganache (for local blockchain testing)
+
+## Installation
+### Clone the Repository:
+```bash
+git clone <repository-url>
+cd blockchain-smart-ballot
+```
