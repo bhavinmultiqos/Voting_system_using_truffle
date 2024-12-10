@@ -15,10 +15,10 @@
 
 ## How Blockchain Smart Ballot Works
 ### Casting a Vote
-*Set up your local blockchain environment using Ganache.
-*Deploy the Voting Smart Contract on the blockchain.
-*Follow the prompts in the interaction script to cast your vote.
-*Ensure that you use a valid Ethereum address, as each account can vote only once.
+* Set up your local blockchain environment using Ganache.
+* Deploy the Voting Smart Contract on the blockchain.
+* Follow the prompts in the interaction script to cast your vote.
+* Ensure that you use a valid Ethereum address, as each account can vote only once.
 ### Checking Voting Results
 * Get real-time voting updates instantly after each vote is cast.
 * Use the interaction script to query the current voting results and track changes over time.
